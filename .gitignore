@@ -1,7 +1,7 @@
-__pycache__
-.mypy_cache/
-models/
-checkpoint
 samples
 dist-newstyle
 bin
+models/
+checkpoint
+__pycache__
+.mypy_cache/
